@@ -32,18 +32,6 @@
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
-      "tag": "items",
-      "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
-      ],
-      "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
-      ]
-    },
-    {
       "tag": "payments",
       "patterns": [
         "Do you take credit cards?",
@@ -57,17 +45,57 @@
       ]
     },
     {
-      "tag": "delivery",
+      "tag": "question1",
       "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
+        "What is the Corporate Transparency Act?",
+        "What's the Corporate Transparency Act?",
+        "What's the Corporate Transparency Act",
+		"Whats the Corporate Transparency Act?",
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "Adopted into law by Congress in 2020, the Corporate Transparency Act will dramatically change the way corporations, limited liability companies and limited partnerships are formed. The Corporate Transparency Act requires each company formed or registered to do business in the U.S. to disclose its beneficial ownership to FinCEN. The disclosure report must contain specific items of personally identifiable information about  each of the reporting company's beneficial owners."
       ]
     },
+	{
+      "tag": "question2",
+      "patterns": [
+        "What Does the Corporate Transparency Act Require?",
+        "What Does the Corporate Transparency Act Require",
+        "What are the requirements for the corporate Transparency Act?",
+		"What are the requirements for the corporate Transparency Act",
+		"What do I need for the corporate Transparency Act?",
+		"What do I need for the corporate Transparency Act"
+      ],
+      "responses": [
+	  "The Corporate Transparency Act requires reporting companies to file a beneficial ownership information report with FinCEN. After any change in any item of reported data, the reporting company must amend their beneficial ownership report with FinCEN. The Corporate Transparency Act defines a \"reporting company\" as any corporation, limited partnership, limited liability company or other entity that is formed by the filing of a document with a secretary of state or tribal government. Companies formed on or after January 1, 2024 will be required to identify a company applicant, who will be the person who filed the document that formed the company."
+      ]
+    },
+	{
+      "tag": "question3",
+      "patterns": [
+        "What is a Beneficial Owner?",
+        "What is a Beneficial Owner",
+        "What's a Beneficial Owner?",
+        "What's a Beneficial Owner",
+		"Whats a Beneficial Owner?",
+		"Whats a Beneficial Owner",
+		"What makes someone a Beneficial Owner?",
+		"What makes someone a Beneficial Owner",
+		
+      ],
+      "responses": [
+        "FinCEN issued its Final Rule on the beneficial ownership requirements of the Corporate Transparency Act on September 29, 2022. The Final Rule clarifies the definition of \"beneficial owner\" under the CTA. The Final Rule defines \"beneficial owner\" as any individual who, directly or indirectly: 1. Holds 25 percent or more of the ownership interest in a reporting company, or 2. Exercises substantial control over a reporting company. Importantly, the definition of \"beneficial owner\" only includes individuals who are natural persons. As a result, any interest in a reporting company held by a legal entity will be calculated with respect to the individual natural person who has the ultimate beneficial ownership of that interest."
+      ]
+    },
+	{
+      "tag": "question4",
+      "patterns": [
+        "How Does the Final Rule Define Substantial Control?",
+      ],
+      "responses": [
+        "FinCEN's Final Rule defines \"substantial control\" through a facts and circumstances test that requires the reporting company to look at a number of factors. An individual exercise substantial control over a reporting company if that individual: (A) Serves as a senior officer of the reporting company; (B) Has authority over the appointment or removal of any senior officer or a majority of the board of directors (or similar body); (C) Directs, determines, or has substantial influence over important decisions made by the reporting company, including decisions regarding: (1) The nature, scope, and attributes of the business of the reporting company, including the sale, lease, mortgage, or other transfer of any principal assets of the reporting company; (2) The reorganization, dissolution, or merger of the reporting company; (3) Major expenditures or investments, issuances of any equity, incurrence of any significant debt, or approval of the operating budget of the reporting company; (4) The selection or termination of business lines or ventures, or geographic focus, of the reporting company; (5) Compensation schemes and incentive programs for senior officers; (6) The entry into or termination, or the fulfillment or non-fulfillment, of significant contracts; (7) Amendments of any substantial governance documents of the reporting company, including the articles of incorporation or similar formation documents, bylaws, and significant policies or procedures; or (D) Has any other form of substantial control over the reporting company. Because the definition of \"substantial control\" is a facts and circumstances test, many reporting companies will need legal advice from an attorney to identify the individuals who exercise substantial control over the reporting company."
+      ]
+    }
     {
       "tag": "funny",
       "patterns": [
