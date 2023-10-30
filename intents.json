@@ -80,7 +80,7 @@
 		"Whats a Beneficial Owner?",
 		"Whats a Beneficial Owner",
 		"What makes someone a Beneficial Owner?",
-		"What makes someone a Beneficial Owner",
+		"What makes someone a Beneficial Owner"
 		
       ],
       "responses": [
@@ -91,9 +91,390 @@
       "tag": "question4",
       "patterns": [
         "How Does the Final Rule Define Substantial Control?",
+		"What does the final rule say about substantial control?",
+		"What does the Final Rule say about substantial control?",
+		"How does the final rule define substantial control?",
+		"How does the Final Rule define substantial control?",
+		"What is the definition of substantial control according to the Final Rule?",
+		"How does the Final Rule specifically define substantial control?",
+		"Within the Final Rule, how is substantial control specifically described?",
+		"In the Final Rule, what is the precise definition of substantial control?",
+		"Can you explain the specific definition of substantial control as outlined in the Final Rule?",
+		"What is the exact characterization of substantial control according to the Final Rule?",
+		"According to the Final Rule, how is substantial control precisely identified or defined?",
+		"Could you provide a clear explanation of the concept of substantial control as defined in the Final Rule?",
+		"In the Final Rule, how is substantial control specifically articulated and determined?",
+		"How does the Final Rule specifically outline the meaning of substantial control?"
+		
       ],
       "responses": [
         "FinCEN's Final Rule defines \"substantial control\" through a facts and circumstances test that requires the reporting company to look at a number of factors. An individual exercise substantial control over a reporting company if that individual: (A) Serves as a senior officer of the reporting company; (B) Has authority over the appointment or removal of any senior officer or a majority of the board of directors (or similar body); (C) Directs, determines, or has substantial influence over important decisions made by the reporting company, including decisions regarding: (1) The nature, scope, and attributes of the business of the reporting company, including the sale, lease, mortgage, or other transfer of any principal assets of the reporting company; (2) The reorganization, dissolution, or merger of the reporting company; (3) Major expenditures or investments, issuances of any equity, incurrence of any significant debt, or approval of the operating budget of the reporting company; (4) The selection or termination of business lines or ventures, or geographic focus, of the reporting company; (5) Compensation schemes and incentive programs for senior officers; (6) The entry into or termination, or the fulfillment or non-fulfillment, of significant contracts; (7) Amendments of any substantial governance documents of the reporting company, including the articles of incorporation or similar formation documents, bylaws, and significant policies or procedures; or (D) Has any other form of substantial control over the reporting company. Because the definition of \"substantial control\" is a facts and circumstances test, many reporting companies will need legal advice from an attorney to identify the individuals who exercise substantial control over the reporting company."
+      ]
+    },
+	{
+      "tag": "question5",
+      "patterns": [
+        "Are Some Beneficial Owners Exempt?",
+        "Who is exempt from being a Beneficial Owner?",
+        "Who is exempt from being a beneficial owner?",
+		"Am I not a Beneficial Owner?",
+		"Is anyone exempt from being a beneficial owner?",
+		"Are there any exemptions from being a beneficial owner?"
+      ],
+      "responses": [
+        "FinCEN's Final Rule creates some exceptions for certain individuals who would otherwise be included in the definition of \"beneficial owner\". The Final Rule provides that \"beneficial owner\" does not include: (i) A minor child, as defined under the law of the State or Indian tribe in which a domestic reporting company is created or a foreign reporting company is first registered, provided the reporting company reports the required information of a parent or legal guardian of the minor child as specified in paragraph (b)(2)(ii) of this section; (ii) An individual acting as a nominee, intermediary, custodian, or agent on behalf of another individual; (iii) An employee of a reporting company, acting solely as an employee, whose substantial control over or economic benefits from such entity are derived solely from the employment status of the employee, provided that such person is not a senior officer as defined in paragraph (f)(8) of this section; (iv) An individual whose only interest in a reporting company is a future interest through a right of inheritance; (v) A creditor of a reporting company. For purposes of this paragraph (d)(3)(v), a creditor is an individual who meets the requirements of paragraph (d) of this section solely through rights or interests for the payment of a predetermined sum of money, such as a debt incurred by the reporting company, or a loan covenant or other similar right associated with such right to receive payment that is intended to secure the right to receive payment or enhance the likelihood of repayment. Individuals whose only interest in the reporting company is described in these categories are excluded from the definition of \"beneficial owner.\""
+      ]
+    },
+	{
+      "tag": "question5-child",
+      "patterns": [
+        "Is my child a Beneficial Owner?",
+        "If my child has a Trust in his name, is he a beneficial owner?",
+        "Can a minor be a beneficial owner of a reporting company?"
+      ],
+      "responses": [
+        "There are five instances in which an individual who would otherwise be a beneficial owner of a reporting company qualifies for an exception. In those cases, the reporting company does not have to report that individual as a beneficial owner to FinCEN. If the individual  is a minor child, as defined under the law of the State or Indian tribe in which the domestic reporting company is created or the foreign reporting company is first registered. The reporting company will instead report information about the parent or legal guardian of the minor child."
+      ]
+    },
+	{
+      "tag": "question5-Agent/Intermediary",
+      "patterns": [
+        "I am an Agent of ____, representing them at a company. Am I considered a beneficial owner?",
+        "How is considered the beneficial owner in a principal-agent relationship?",
+        "I have an intermediary acting as my agent at a company? Am I a beneficial owner or the intermediary agent?",
+		"Does an intermediary agent become a beneficial owner if who they represent has more than 25% percent ownership of a company?"
+      ],
+      "responses": [
+        "There are five instances in which an individual who would otherwise be a beneficial owner of a reporting company qualifies for an exception. In those cases, the reporting company does not have to report that individual as a beneficial owner to FinCEN. One exception applies to the individual who merely acts on behalf of an actual beneficial owner as the beneficial owner’s nominee, intermediary, custodian, OR agent. Individuals who perform ordinary advisory or other contractual services (such as tax professionals) likely qualify for this exception. In scenarios where this exception applies the actual beneficial owner must still be reported.",
+      ]
+    },
+	{
+      "tag": "question5-Inheritors",
+      "patterns": [
+        "I am set to inherit a company. Do I qualify as a beneficial owner?",
+        "I am set to inherit a company. Am I a beneficial owner of that company?",
+        "I am set to inherit a company. Am I a beneficial owner?",
+		"I am set to inherit a company. Am I considered a beneficial owner?",
+		"I am set to inherit a reporting company. Do I qualify as a beneficial owner?",
+		"I am set to inherit a reporting company. Am I a beneficial owner of that company?",
+		"I am set to inherit a reporting company. Am I a beneficial owner?",
+		"I am set to inherit a reporting company. Am I considered a beneficial owner?",
+		"I will inherit a company. Am I a beneficial owner?"
+		"I will inherit a company. Am I a beneficial owner of that company?",
+		"I will inherit a company. Am I considered a beneficial owner?",
+		"I will inherit a company. Do I qualify as a beneficial owner?",
+		"I will inherit a reporting company. Am I a beneficial owner?",
+		"I will inherit a reporting company. Am I a beneficial owner of that company?",
+		"I will inherit a reporting company. Am I considered a beneficial owner?",
+		"I will inherit a reporting company. Do I qualify as a beneficial owner?",
+		"If I will inherit a percentage of a company, do I qualify as a beneficial owner?",
+		"If I inherit a company, will I become a beneficial owner?"
+		
+      ],
+      "responses": [
+        "There are five instances in which an individual who would otherwise be a beneficial owner of a reporting company qualifies for an exception. In those cases, the reporting company does not have to report that individual as a beneficial owner to FinCEN. For inheritors the individual’s only interest in the reporting company is a future interest through a right of inheritance, such as through a will providing a future interest in a company"
+      ]
+    },
+	{
+      "tag": "question5-Creditors",
+      "patterns": [
+        "Our company owes a significant amount of money to a creditor. Is the creditor considered a beneficial owner of the company?",
+        "My Company owes a significant amount of money to a creditor. Is the creditor considered a beneficial owner of the company?",
+        "Are creditors beneficial owners?",
+		"Can a creditor be considered a beneficial owner?",
+		"Can a creditor be a beneficial owner?",
+		"Can a creditor be a Beneficial Owner?",
+		"Can a Creditor be a beneficial owner?"
+      ],
+      "responses": [
+        "There are five instances in which an individual who would otherwise be a beneficial owner of a reporting company qualifies for an exception. In those cases, the reporting company does not have to report that individual as a beneficial owner to FinCEN. This exception applies when the individual is a creditor of the reporting company. For example, an individual qualifies for the creditor exception if the individual is entitled to payment from the reporting company to satisfy a loan or debt, so long as this entitlement is the only ownership interest the individual has in the reporting company.",
+      ]
+    },
+	{
+      "tag": "question5-Employee",
+      "patterns": [
+        "If an employee has a great amount of ownership interest in my company, are they considered a beneficial owner?",
+        "Are my employees beneficial owners?",
+        "Are employees beneficial owners?",
+		"Can an employee be a beneficial owner?",
+		"Are employees exempt from being a beneficial owner?"
+      ],
+      "responses": [
+        "There are five instances in which an individual who would otherwise be a beneficial owner of a reporting company qualifies for an exception. In those cases, the reporting company does not have to report that individual as a beneficial owner to FinCEN. This exception applies when the individual is an employee of the reporting company, who’s substantial control, or economic benefits from, the reporting company are derived solely from the employment status of the individual as an employee. The individual also must not be  a senior officer of the reporting company.",
+      ]
+    },
+	{
+      "tag": "question6",
+      "patterns": [
+        "What Information Must a Reporting Company Disclose on its Beneficial Ownership Report?",
+        "What information must a reporting company disclose on its Beneficial Ownership Report?",
+        "What information must a reporting company provide on its Beneficial Ownership Report?",
+		"What information must a reporting company disclose on its BOI Report?",
+		"What information must a reporting company provide on its BOI Report?"
+      ],
+      "responses": [
+        "A reporting company needs to provide the following information for each individual included in its Beneficial Ownership Information Report: \n•   Full Legal Name\n •   Date of birth\n •   Current residential address\n•   A unique identifying number from a valid ID document (driver’s license, passport, or government issued ID)\n•   An image of the ID document.",
+      ]
+    },
+	{
+      "tag": "question7",
+      "patterns": [
+        "What Information Must a Reporting Company Disclose Regarding its Company Applicant?",
+        "What information must a Reporting Company disclose regarding its company applicant?",
+        "What information must a reporting company disclose regarding its company applicant?",
+		"What information must a Reporting Company disclose regarding its Company Applicant?",
+		"What information must a reporting company disclose regarding its Company Applicant?",
+		"What information must a Reporting Company disclose regarding its company applicants?",
+		"What information must a reporting company disclose regarding its company applicants?",
+		"What information must a Reporting Company disclose regarding its Company Applicants?",
+		"What information must a reporting company disclose regarding its Company Applicants?",
+		"What information does a company applicant need to report?",
+		"What information does a company applicant need to submit?",
+		"What does a company applicant need to report?",
+		"What does a company applicant need to report to FinCEN?",
+		"What do I report as a company applicant?",
+		"What documents do I need to submit as a company applicant?",
+		"What documents do I need to report for company applicants?"
+      ],
+      "responses": [
+        "A reporting company needs to provide the following information for each individual included in its Beneficial Ownership Information Report: \n•   Full Legal Name\n •   Date of birth\n•   Current residential address\n•   A unique identifying number from a valid ID document (driver’s license, passport, or government issued ID)\n•   An image of the ID document.",
+      ]
+    },
+	{
+      "tag": "question8",
+      "patterns": [
+        "When Does the Corporate Transparency Act Take Effect?",
+        "When does the Corporate Transparency Act take Effect?",
+        "When does the corporate transparency act take effect?",
+		"When does the corporate transparency act take Effect",
+		"When does the corporate transparency act take effect",
+		"When does the Corporate Transparency Act take affect?",
+		"Has the Corporate Transparency Act already started?",
+		"When will the Corporate Transparency Act affect businesses?"
+      ],
+      "responses": [
+        "The Corporate Transparency Act and its reporting requirements go into effect January 1st, 2024.\nExisting businesses formed before January 1, 2024, need to file Beneficial Ownership Information reports to FinCEN by January 1, 2025 in order to comply with the CTA.\nNew businesses formed after January 1, 2024, need to submit Beneficial Ownership Information reports to FinCEN within 30 days of the company’s formation date."",
+      ]
+    },
+	{
+      "tag": "question9",
+      "patterns": [
+        "What is the Penalty for Violating the Corporate Transparency Act?",
+        "What is the penalty for violating the Corporate Transparency Act?",
+        "What is the penalty for violating the corporate transparency act?",
+		"What is the penalty for not complying?",
+		"Are there penalties for violating the Corporate Transparency Act?",
+		"Are there penalties for violating the corporate transparency act?",
+		"Are there penalties for not complying?",
+		"Are there any penalties for violating the Corporate Transparency Act?",
+		"Are there any penalties for violating the corporate transparency act?",
+		"Are there fines for not complying with the Corporate Transparency?",
+		"Are there fines for not complying with the corporate transparency act?",
+		"Can I be fined for not complying?",
+		"Can I be fined for violating the Corporate Transparency Act?",
+		"Can I be fined for not complying with the Corporate Transparency Act?",
+		"Can I be fined for not complying with the corporate transparency act?",
+		"Can I go to jail for not complying with the Corporate Transparency Act?",
+		"Can I go to jail for not complying with the corporate transparency act?",
+		"Can I be penalized for not complying?",
+		"Can I be penalized for not complying with the Corporate Transparency Act?",
+		"Can I be penalized for not complying with the corporate transparency act?",
+		"Is there a penalty for not filing a Beneficial Ownership Information Report?",
+		"Is there a penalty for not filing a beneficial ownership information report?",
+		"Is there a penalty for not filing a BOI report?",
+		"Is there a penalty for not filing a BOI Report?",
+		"Is there a penalty for not filing a boi report?",
+		"Is there a penalty for not filing my Beneficial Ownership Information Report?",
+		"Is there a penalty for not filing my beneficial ownership information report?",
+		"Is there a penalty for not filing my BOI report?",
+		"Is there a penalty for not filing my BOI Report?",
+		"Is there a penalty for not filing my boi report?",
+		"Is there a fine for not filing a Beneficial Ownership Information Report?",
+		"Is there a fine for not filing a beneficial ownership information report?",
+		"Is there a fine for not filing a BOI report?",
+		"Is there a fine for not filing a BOI Report?",
+		"Is there a fine for not filing a boi report?",
+		"Can you be fined for not filing a Beneficial Ownership Information Report?",
+		"Can you be fined for not filing a beneficial ownership information report?",
+		"Can you be fined for not filing a BOI report?",
+		"Can you be fined for not filing a BOI Report?",
+		"Can you be fined for not filing a boi report?",
+		"Can you be penalized for not filing a Beneficial Ownership Information Report?",
+		"Can you be penalized for not filing a beneficial ownership information report?",
+		"Can you be penalized for not filing a BOI Report?",
+		"Can you be penalized for not filing a BOI report?",
+		"Can you be penalized for not filing a boi report?",
+		"Can you go to jail for not filing a Beneficial Ownership Information Report?",
+		"Can you go to jail for not filing a beneficial ownership information report?",
+		"Can you go to jail for not filing a BOI Report?",
+		"Can you go to jail for not filing a BOI report?",
+		"Can you go to jail for not filing a boi report?"
+		
+      ],
+      "responses": [
+        "Individuals face significant fines and even jail time for failing to comply with Beneficial Ownership Reporting requirements under the Corporate Transparency Act. \nCivil penalties for BOI reports which are inaccurate or are submitted after the deadlines can include fines up to $500 per day. \nCriminal penalties for wilful noncompliance or reporting false information can result in fines up $10,000 and up to 2 years imprisonment."
+      ]
+    },
+	{
+      "tag": "question10",
+      "patterns": [
+        "Does the CTA apply to all companies?",
+        "Does the CTA apply to all companies?",
+        "Does the Corporate Transparency Act apply to all companies?",
+		"Does the cta apply to all companies?",
+		"Does the corporate transparency act apply to all companies?",
+		"Who does the corporate transparency act apply to?",
+		"Who does the Corporate Transparency Act apply to?"
+      ],
+      "responses": [
+        "Beneficial Ownership Information reporting requirements impact nearly all limited liability companies (LLCs) and corporations registered in the U.S. \nThe Corporate Transparency Act requires any business entity formed by submitting a filing to a Secretary of State’s office to provide Beneficial Ownership Information to FinCEN. These include: \n•   LLCs,\n•   Corporations, \n•   Limited partnerships, and\n•   Some types of trusts.\nForeign business entities that are registered to do business in a U.S. state are also required to file BOI reports to FinCEN."
+      ]
+    },
+	{
+      "tag": "question11",
+      "patterns": [
+        "What is the charitable entity exemption?",
+        "What is the charitable entity exemption?",
+        "Explain the charitable entity exemption?",
+		"Are there exemptions for non-profit organizations?",
+		"Are there any exemptions for nonprofit organizations?",
+		"Are there exemptions for non profit organizations?",
+		"Does a nonprofit have to comply with the Corporate Transparency Act?",
+		"Do nonprofit organizations have to comply with the Corporate Transparency act?"
+      ],
+      "responses": [
+        "Charitable organizations fall under the “Tax-exempt entity” exemption #19. These organizations can meet the criteria for two of the four types of entities that are recognized by this exemption:\n•   The entity is an organization that is described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 510(a) of the Code.\n•   The entity was an organization that was described in section 501(c), and was exempt from tax under section 501(a), but lost its tax-exempt status less than 180 days ago.\nA charitable organization can only be recognized as tax exempt after having their 501(c)(3) application approved by the IRS and receiving their letter of determination\nA 501(c)(3) organization that has not been approved by the IRS must comply with CTA guidelines until they receive their tax exempt status."
+      ]
+    },
+	{
+      "tag": "question12",
+      "patterns": [
+        "Is there an exemption for large companies?",
+        "Are publicly traded companies exempt from complying?",
+        "Are publicly traded companies exempt?",
+		"Are large companies exempt from reporting Beneficial Ownership Information?",
+		"How many employees does a company need to have to be exempt?",
+		"How much gross profit must a company make in order to be exempt?",
+		"What requirements must be met for a company to be considered a large company?"
+      ],
+      "responses": [
+        "Charitable organizations fall under the “Tax-exempt entity” exemption #19. These organizations can meet the criteria for two of the four types of entities that are recognized by this exemption:\n•   The entity is an organization that is described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 510(a) of the Code.\n•   The entity was an organization that was described in section 501(c), and was exempt from tax under section 501(a), but lost its tax-exempt status less than 180 days ago.\nA charitable organization can only be recognized as tax exempt after having their 501(c)(3) application approved by the IRS and receiving their letter of determination.\nA 501(c)(3) organization that has not been approved by the IRS must comply with CTA guidelines until they receive their tax exempt status."
+      ]
+    },
+	{
+      "tag": "question13",
+      "patterns": [
+        "Who is a beneficial owner?",
+        "Who is a Beneficial Owner?",
+        "Who is a beneficial owner?",
+		"How do I know if I am a beneficial owner?",
+		"How do I know if I am a Beneficial Owner?",
+		"What are the requirements for someone to be considered a beneficial owner?",
+		"Who are my company's beneficial owners?"
+      ],
+      "responses": [
+        "A beneficial owner is any individual who either directly or indirectly owns 25% or more of the ownership interest in a reporting company.\nBeneficial owners also include any individuals who exercises “substantial control” over a reporting company's business operations and strategy including:\n•   Senior officers\n•   Have authority to appoint or remove officers\n•   Important decision-maker"
+      ]
+    },
+	{
+      "tag": "question14",
+      "patterns": [
+        "How does a reporting company calculate 25% ownership?",
+        "How does a reporting company calculate 25% ownership?",
+        "How does a reporting company calculate the 25% threshold?",
+		"How is the 25% threshold calculated?",
+		"How should I calculate the 25% threshold?",
+		"How is Ownership Interest calculated?",
+		"How is ownership interest calculated?"
+      ],
+      "responses": [
+        "Ownership interest is a “catch-all” term that includes any medium or tool used to establish ownership rights in the reporting company. A reporting company may have multiple types of ownership interests.\nOther examples of ownership interest include: \n•   Shares of Equity\n•   Stock\n•   Voting Rights \n•   Capital Interest \n•   Profit Interest\n•   Convertible Instruments\n•   Options"
+      ]
+    },
+	{
+      "tag": "question15",
+      "patterns": [
+        "Does a reporting company need to identify and provide information about its \"company applicant\"?",
+        "Does a reporting company need to identify and provide information about its “company applicant”?",
+        "Does a reporting company need to identify and provide information about its company applicant?",
+		"What companies need to report company applicant information?",
+		"What companies need to report company applicants?",
+		"Do all reporting companies need to report company applicant information?",
+		"Do all reporting companies need to report company applicants?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+	{
+      "tag": "question16",
+      "patterns": [
+        "Who is the \"company applicant\"?",
+        "Who is the “company applicant”?",
+        "Who is the “Company Applicant”?",
+		"Who are the “company applicants”?",
+		"Who are the company applicants of a firm?",
+		"Who are the company applicants of a company?",
+		"Are there more than one company applicants?",
+		"How many company applicants are there?",
+		"Who is a company applicant for my company?",
+		"Is the direct filer of a company formation document the company applicant?"
+		
+      ],
+      "responses": [
+        "Each reporting company has two company applicants according to FinCEN: \n•  Company Applicant (1) Responsible for Requesting Company Formation\nReporting companies formed after January 1, 2024 need to disclose the individual who directed or controlled the initial filing of the company's formation documents in their BOI Initial report.  \nThe company applicant is ultimately responsible for requesting that the business entity be formed, whether they completed the process themselves, or through a third party service. \n•  Company Applicant (2) Direct Filer of Company Formation Documents\nReporting companies formed after January 1, 2024 also need to disclose the individual who ultimately submitted the company’s formation documents to the Secretary of State’s office. \nIf a company used a third party incorporation service to file their formation documents, then the incorporation agent who handled the filing is the second company applicant. \nThe company applicant reporting requirement does not impact existing companies formed before January 1st, 2024. Companies formed after this date are not required to provide company applicant information in their Beneficial Ownership Information Reports."
+      ]
+    },
+	{
+      "tag": "question17",
+      "patterns": [
+        "What happens if a reporting company is owned, in part, by an entity that is itself exempt from CTA reporting?",
+        "What happens if a reporting company is owned, in part, by an entity that is itself exempt from CTA reporting?",
+        "Is my company exempt if a control party of my company is from an exempt company?",
+		"Is my company exempt if a beneficial owner of my company is from an exempt company?",
+		"Is my company exempt if a Beneficial Owner of my company is from an exempt company?",
+		"What happens if a control party of my company is an entity that is exempt from CTA reporting?",
+		"What happens if a control party of my company is an entity that is exempt from Corporate Transparency Act reporting?",
+		"What happens if a control party of my company is an entity that is exempt from the Corporate Transparency Act reporting?",
+		"What happens if a control party of my company is an entity that is exempt from reporting its Beneficial Ownership Information.",
+		"What happens if a control party of my company is an entity that is exempt from submitting Beneficial Ownership Information.",
+		"What rules are in place for submitting Beneficial Ownership Information from a party who is already exempt from reporting."
+      ],
+      "responses": [
+        "If a beneficial owner owns or controls their ownership interest in a reporting company exclusively through one or multiple exempt entities, then the names of all of those exempt entities may be reported to FinCEN instead of the individual beneficial owner’s information.\nThis rule does not apply when an individual owns or controls ownership interests in a reporting company through both exempt and non-exempt entities. In that case, the reporting company must report the individual as a beneficial owner, but the exempt companies do not need to be listed"
+      ]
+    },
+	{
+      "tag": "question18",
+      "patterns": [
+        "What is a FinCEN Identifier?",
+        "What is a FinCEN Identifier?",
+        "What is a FinCEN Identifier?",
+		"What is a FinCEN ID?",
+		"What is a FinCEN Id?",
+		"What is a fincen identifier?"
+		
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+      ]
+    },
+	{
+      "tag": "question19",
+      "patterns": [
+        "Who is legally responsible for filing a reporting company's beneficial ownership report?",
+        "Who is legally responsible for filing a reporting company’s Beneficial Ownership Information report?",
+        "Where does the liability fall in the case of failure to comply with the Corporate Transparency Act’s reporting requirements.",
+		"Who is responsible for filing a reporting company’s Beneficial Ownership Information report?",
+		"Who is legally responsible for filing a reporting company’s BOI report?",
+		"Who is liable for failure to comply with the Corporate Transparency Act’s reporting requirements",
+		"Who is responsible for a reporting company’s BOI report?",
+		"Who is responsible for a reporting company’s Beneficial Ownership Information report?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
       ]
     }
     {
