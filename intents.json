@@ -473,20 +473,522 @@
 		"Who is responsible for a reporting company’s Beneficial Ownership Information report?"
       ],
       "responses": [
-        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-        "What did the buffalo say when his son left for college? Bison."
+        "Senior officers of an entity that fails to file a required BOI report may be held accountable for that failure. "
       ]
-    }
-    {
-      "tag": "funny",
+    },
+	{
+      "tag": "question20",
       "patterns": [
-        "Tell me a joke!",
-        "Tell me something funny!",
-        "Do you know a joke?"
+        "Who is a “senior officer” of a reporting company?",
+        "Who is a senior officer of a reporting company?",
+        "Who is a senior officer?",
+		"Who is considered a senior officer?",
+		"What individuals are senior officers?",
+		"What individuals are considered senior officers?",
+		"What individuals are considered senior officers of a reporting company?",
+		"What titles are considered senior officers?",
+		"Are certain titles automatically considered senior officers?",
+		"What roles are considered senior officers?",
+		"What roles will be considered senior officers of a reporting company?",
+		"Who are the senior officers of a company?",
+		"Am I a senior officer?"
       ],
       "responses": [
-        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-        "What did the buffalo say when his son left for college? Bison."
+        "The \"senior officer\" title includes any individual holding the position or exercising the authority of a president, chief financial officer, general counsel, chief executive officer, chief operating officer, or any other officer, regardless of official title, who performs a similar function."
+        
+      ]
+    },
+	{
+      "tag": "question21",
+      "patterns": [
+        "What happens if another person provides false or misleading information to a senior officer of a reporting company?",
+        "What happens if one of your beneficial owners provides false information?",
+        "What happens if one of your control parties provides false information?",
+		"What happens if one of your beneficial owners provides misleading information?",
+		"What happens if one of your control parties provides misleading information?",
+		"What happens if a beneficial owner refuses to provide required information?",
+		"What happens if a control party refuses to provide required information."
+      ],
+      "responses": [
+        "If a person willfully provides false or fraudulent information that results in the filing of a beneficial ownership report that contains false or fraudulent information, that person is also liable for the violation and may be subject to civil and/or criminal penalties."
+      ]
+    },
+	{
+      "tag": "question22",
+      "patterns": [
+        "What are the penalties for failing to file or filing a false report?",
+        "What are the penalties for filing a false report?",
+        "Will companies be penalized for filing false reports?",
+		"Can reporting companies be penalized for filing false reports?",
+		"What are the penalties for filing fraudulent reports?",
+		"What are the penalties for filing fraudulent or false reports?"
+      ],
+      "responses": [
+        "The willful failure to report complete or updated beneficial ownership information to FinCEN, or the willful provision of or attempt to provide false or fraudulent beneficial ownership information may result in a civil or criminal penalties, including civil penalties of up to $500 for each day that the violation continues, or criminal penalties including imprisonment for up to two years and/or a fine of up to $10,000. Senior officers of an entity that fails to file a required BOI report may be held accountable for that failure."
+      ]
+    },
+	{
+      "tag": "question23",
+      "patterns": [
+        "Is there a penalty for a reporting company that files its report late?",
+        "Is there a penalty for a reporting company filing its report late?",
+        "Is there a fine for a reporting company that files its report late?",
+		"Is there a fine for a reporting company filing its report late?",
+		"Can you be fined for reporting your Beneficial Ownership Information late?",
+		"Can you be fined for reporting your beneficial ownership information late?",
+		"Are you penalized for reporting your Beneficial Ownership Information late?",
+		"Are you penalized for reporting your beneficial ownership information late?"
+      ],
+      "responses": [
+        "The CTA provides for a civil penalty of not more than $500 for each day a reporting violation occurs."
+      ]
+    },
+	{
+      "tag": "question24",
+      "patterns": [
+        "What is CTABOI?",
+        "What is CTAboi?",
+        "What is CTA BOI?",
+		"What is ctaboi?"
+      ],
+      "responses": [
+        "CTAboi® is the trusted source for all Beneficial Ownership Information Report (BOI) compliance needs. Our in-house lawyers and on-site IT professionals built CTAboi to help you comply with the Corporate Transparency Act (CTA). \nSince 1974, our family-owned, attorney-operated Delaware business has helped over 20,000 entrepreneurs navigate the ever-changing business landscape. Our team of incorporation experts has a combined fifty (50) years of experience. We used that experience and knowledge to help create CTAboi LLC. Our goal is to provide modern solutions and simplify emerging compliance requirements for small businesses. Discover the rich history of our commitment to excellence."
+      ]
+    },
+	{
+      "tag": "question25",
+      "patterns": [
+        "Who is FinCEN?",
+        "Who is fincen?",
+        "What is FinCEN?",
+		"What is fincen?"
+      ],
+      "responses": [
+        "The Financial Crimes Enforcement Network, or FinCEN, operates as a branch of the United States Department of the Treasury, dedicated to fighting financial crimes domestically and globally. These crimes include activities such as money laundering, terrorist activities, and other financial crimes.\n Under The Corporate Transparency Act, it is FinCEN's responsibility to gather and maintain Beneficial Ownership Information of companies based in the U.S, in a confidential database."
+      ]
+    },
+	{
+      "tag": "question26",
+      "patterns": [
+        "Is CTABOI considered a company applicant?",
+        "Is CTAboi considered a company applicant?",
+        "Is a third party incorporation service considered a company applicant?",
+		"Is a third party incorporation service a company applicant?",
+		"Is a third party incorporation firm a company applicant?",
+		"Is someone from the filing service our company hired?"
+      ],
+      "responses": [
+        "CTAboi is considered a company applicant as when a third party incorporation service is used to file formation documents, the incorporation agent who handled the filing is the second company applicant. The first company applicant would be the individual who directed the third party to file their Beneficial Ownership Information report for them.\nEach reporting company has two company applicants according to FinCEN: \n •  Company Applicant (1) Responsible for Requesting Company Formation\nReporting companies formed after January 1, 2024 need to disclose the individual who directed or controlled the initial filing of the company's formation documents in their BOI Initial report.  \nThe company applicant is ultimately responsible for requesting that the business entity be formed, whether they completed the process themselves, or through a third party service. \n•  Company Applicant (2) Direct Filer of Company Formation Documents\nReporting companies formed after January 1, 2024 also need to disclose the individual who ultimately submitted the company’s formation documents to the Secretary of State’s office. \nThe company applicant reporting requirement does not impact existing companies formed before January 1st, 2024. Companies formed after this date are not required to provide company applicant information in their Beneficial Ownership Information Reports."
+      ]
+    },
+	{
+      "tag": "question27",
+      "patterns": [
+        "Where can I obtain a FinCEN ID?",
+        "Where do I get a FinCEN ID?",
+        "Where are FinCEN IDs?",
+		"Who gives FinCEN IDs?",
+		"I want a FinCEN ID, how do I get one?",
+		"How do I get a FinCEN Id?"
+      ],
+      "responses": [
+        "Individuals will be able to request a FinCEN identifier on or after January 1, 2024, by completing an electronic web form. Individuals will need to provide their full legal name, date of birth, address, unique identifying number and issuing jurisdiction from an acceptable identification document, and an image of the identification document. After an individual submits this information, the individual will immediately receive a FinCEN identifier unique to that individual.\nReporting companies may request a FinCEN identifier by checking a box on the beneficial ownership information report when they submit the report. After the reporting company submits the report, the reporting company will immediately receive a FinCEN identifier unique to that company. If a reporting company wishes to request a FinCEN identifier after submitting its initial beneficial ownership report, it may submit an updated beneficial ownership information report requesting a FinCEN identifier, even if the company does not otherwise need to update its information.",
+      ]
+    },
+	{
+      "tag": "question28",
+      "patterns": [
+        "Can I get a FinCEN ID from CTAboi?",
+        "Can I get a FinCEN ID from CTAboi?",
+        "Can I receive a FinCEN ID from CTAboi?",
+		"Does CTAboi give out FinCEN IDs?",
+		
+      ],
+      "responses": [
+        "No, you can only obtain FinCEN Id's directly from FinCEN. Individuals will be able to request a FinCEN identifier on or after January 1, 2024, by completing an electronic web form. Individuals will need to provide their full legal name, date of birth, address, unique identifying number and issuing jurisdiction from an acceptable identification document, and an image of the identification document. After an individual submits this information, the individual will immediately receive a FinCEN identifier unique to that individual.\nReporting companies may request a FinCEN identifier by checking a box on the beneficial ownership information report when they submit the report. After the reporting company submits the report, the reporting company will immediately receive a FinCEN identifier unique to that company. If a reporting company wishes to request a FinCEN identifier after submitting its initial beneficial ownership report, it may submit an updated beneficial ownership information report requesting a FinCEN identifier, even if the company does not otherwise need to update its information."
+      ]
+    },
+	{
+      "tag": "question 29",
+      "patterns": [
+        "Do Single Member LLC’s need to comply with the corporate transparency act?",
+        "Do single member llc’s need to comply with cta guidelines?",
+        "Do single member llcs need to comply?",
+		"Do SMLLC’s need to comply with the corporate transparency act?",
+		"Do smllc’s need to comply with cta guidelines?",
+		"Do smllcs need to comply?",
+		"Does a single member disregarded entity need to comply?",
+		"Do single member disregarded entities need to comply with the Corporate Transparency Act?",
+		"Do single member disregarded entities need to comply with cta?",
+		"Do sm dre’s need to comply with cta?",
+		"Does a single member disregarded llc need to comply?",
+		"Does a single member dre need to comply with the corporate transparency act?",
+		"Does a single member dre need to comply?",
+		"Does a single member dre need to comply with cta?"
+      ],
+      "responses": [
+        "While a Single Member LLC is a disregarded entity(DRE), the entity still is required to file a beneficial ownership information report with the Financial Crimes Enforcement Network."
+      ]
+    },
+	{
+      "tag": "question30",
+      "patterns": [
+        "I own an LLC for a vacation home. Does this LLC have to be reported to FinCEN?",
+        "I own an llc for a vacation home. Does this have to be reported?",
+        "I own an llc for a vacation home. Do I have to report?",
+		"I own an llc for a vacation rental. Does this llc have to be reported to FinCEN?",
+		"I own an llc for a vacation rental. Does this have to be reported?",
+		"I own an llc for a vacation rental. Do I have to report?"
+      ],
+      "responses": [
+        "An active LLC that doesn't qualify for any exemptions must submit a Beneficial Ownership Information Report."
+      ]
+    },
+	{
+      "tag": "question31",
+      "patterns": [
+        "Do I have to update my Beneficial Ownership Report in the case my company dissolves?",
+        "Do I send in a BOI Report in the case my company dissolves?",
+        "Do I send in an additional BOI report if my company dissolves?",
+		"Do I report if my company dissolves?",
+		"Do I report if my company is terminated?"
+      ],
+      "responses": [
+        "No, there is no requirement to report if your company is terminated or dissolves. FinCEN holds on to records for 5 years past dissolution, currently there is no way of knowing if FinCEN will actually inform reporting companies if they have deleted their formers record"
+      ]
+    },
+	{
+      "tag": "question32",
+      "patterns": [
+        "Do I need to take pictures of the front and back of my drivers license?",
+        "Do i need to take pictures of the front and back of my license?",
+        "Do i need to take pictures of the front and back of my driving license?",
+		"Do i need to take a picture of both sides of my drivers license?",
+		"Do i need to take a picture of both sides of my driving license?",
+		"Do I need to take a picture of both sides of my license?",
+		"Do i report both sides of my drivers license?",
+		"Do i report both sides of my license?",
+		"Do i report both sides of my driving license?",
+		"Do i take pictures of both sides of my drivers license?",
+		"Do i take pictures of both sides of my license?",
+		"Do i take pictures of both sides of my driving license?",
+		"Will I have to take pictures of both sides of my license?",
+		"Will I have to take pictures of both sides of my driving license?",
+		"Will I have to take pictures of both sides of my drivers license?"
+      ],
+      "responses": [
+        "Yes. If you are submitting a driver's license as your chosen ID, you will need to scan and submit a picture of both sides of the card."
+      ]
+    },
+	{
+      "tag": "question33",
+      "patterns": [
+        "Are there any exemptions for inactive entities?",
+        "Are there exemptions for inactive entities?",
+        "Are inactive entities exempt?",
+		"Are inactive entities exempt from reporting?",
+		"What exemptions are there for inactive entities?",
+		"Does my inactive company have to report?",
+		"Is my inactive company required to file?",
+		"Can inactive entities be exempt from reporting?",
+		"Do inactive entities have to report?"
+      ],
+      "responses": [
+        "Yes, inactive companies can be exempt from reporting beneficial ownership information barring they meet specific requirements described under Exemption #23.\nExemption #23 states an entity is considered inactive and exempt from filing if all six of the following criteria apply:\n•  The entity was in existence on or before January 1, 2020\n•  The entity is not engaged in active business\n•  The entity is not owned by a foreign person, whether directly or indirectly, wholly or partially.\n•  The entity has not experienced any change in ownership in the preceding twelve-month period\n•  The entity has not sent or received any funds in an amount greater than $1,000, either directly or through any financial account in which the entity or any affiliate of the entity had an interest, in the preceding twelve-month period."
+      ]
+    },
+	{
+      "tag": "question34",
+      "patterns": [
+        "Am I able to keep a record of my company’s Beneficial Ownership Information?",
+        "Can I keep a record of my BOI information?",
+        "Can I access previously submitted BOI Reports through CTAboi?",
+		"Do my reports continue to exist in CTAboi’s server?"
+      ],
+      "responses": [
+        "CTAboi is currently planning on submitting all Beneficial Ownership Information Reports through FinCEN's API collection system. FinCEN will not send a pdf receipt of a companies BOI report.\nAt CTAboi, we recommend that all our customers keep a detailed log of who their beneficial owners are. For each beneficial owner, you should list the specific reasons you are listing them as a beneficial owner. Those reasons could be the calculations behind the 25% ownership of a beneficial owner or the position which contributes to making an individual a control party of your company."
+      ]
+    },
+	{
+      "tag": "question35",
+      "patterns": [
+        "Does a tax-exempt entity need approval from the IRS before checking off its newly exempt status?",
+        "Do 501(3)(c) entities need to file",
+        "Do 501(3)(c) entities need IRS approval to file.",
+		"Does a 501(3)(c) entity need IRS approval to file.",
+		"Is a 501(3)(c) exempt without IRS approval?",
+		"Is a 501(3)(c) exempt?"
+      ],
+      "responses": [
+        "Yes, a 501(c)(3) organization is exempt from filing. However, a 501(c)(3) organization that has yet to be approved by the IRS still must comply with CTA guidelines until they receive their tax exempt status! Only once an organization has received approval from the IRS will they be considered exempt.\nUnder exemption #19, 501(c)(3) organizations can meet the criteria for two of the four types of entities that are recognized by this exemption: \n• The entity is an organization that is described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 510(a) of the Code.\n• The entity was an organization that was described in section 501(c), and was exempt from tax under section 501(a), but lost its tax-exempt status less than 180 days ago."
+      ]
+    },
+	{
+      "tag": "question36",
+      "patterns": [
+        "How will I know if someone is using my FinCEN ID fraudulently?",
+        "Is there any alert for fraudulent use of my FinCEN ID?",
+        "Is there a system in place to protect against fraudulent use of a FinCEN ID?",
+		"What system is in place to protect against fraudulent use of FinCEN IDs?",
+		"Will I know if someone is using my FinCEN ID on their report?",
+		"Will I know if someone is using my FinCEN ID on their BOI report?",
+		"Will I know if someone is using my FinCEN Id on their Beneficial ownership information report."
+      ],
+      "responses": [
+        "TBD, FinCEN will have answers on this in due time."
+      ]
+    },
+	{
+      "tag": "question37",
+      "patterns": [
+        "Is there any way to confirm if submitted boi information is up to date?",
+        "Is there a way to confirm if a BOI report is up to date?",
+        "Is there a way to know if a BOI report is up to date?",
+		"Is there a way to know if a submitted Beneficial Ownership Information report is up to date?",
+		"Can a company confirm if previously submitted reports are up to date?",
+		"Will a company be notified if my report is out of date?",
+		"Will I be notified if my report is out of date?",
+		"How will I know if my boi report is out of date?",
+		"How will I know if my beneficial ownership information report is out of date?"
+      ],
+      "responses": [
+        "No, there is no way to confirm if your previous filing has remained 100% up to date. At CTAboi, we recommend that companies coordinate a “Compliance Officer” position to help keep track of the previously filed records. The officer would also be responsible for understanding when beneficial owner and control party status might change as the company changes internally and externally.\nA company can also file their beneficial ownership information report every 30 days. By doing so, the company would continuously meet the compliance requirements by having all information within 30 days of a change. Remember, there is NO penalty for filing many times!"
+      ]
+    },
+	{
+      "tag": "question38",
+      "patterns": [
+        "How will penalties be issued?",
+        "How will my company know of an accumulated penalty if we received one?",
+        "How will fines be issued?",
+		"How will a company receive a fine?",
+		"Is there a process in place for how fines will be issued?"
+      ],
+      "responses": [
+        "TBD, FinCEN will have further guidance on this in due time."
+      ]
+    },
+    {
+      "tag": "question39",
+      "patterns": [
+        "For existing entities that dissolve or stop business in 2024, are they required to report beneficial ownership information?",
+        "Will existing entities that dissolve in 2024 be required to report beneficial ownership information reports?",
+        "Will existing entities that dissolve in 2024 have to report?",
+		"Will existing entities that dissolve in 2024 be required to report?",
+		"Will existing entities that dissolve in 2024 have to report boi information?",
+		"Do existing entities who dissolve in 2024 have to report?",
+		"Will existing entities who dissolve in 2024 have to report?",
+		"For entities that dissolve or stop business in 2024, are they required to report beneficial ownership information?",
+		"Will entities that dissolve in 2024 have to report?",
+		"Do entities who dissolve in 2024 have to report?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool."
+      ]
+    },
+	{
+      "tag": "question40",
+      "patterns": [
+        "What happens if my company is right on the bubble of the large company exemption?",
+        "What happens if my company is right on the bubble of the large company exception?",
+        "What happens if my company is right on the bubble of the large operating company exemption?",
+		"Is there any leniency with the large company exemption?",
+		"Is there any leniency with the large company exception?",
+		"What happens if my company is right on the edge of complying with exemption #21"
+      ],
+      "responses": [
+        "TBD, FinCEN will have further guidance on this in due time."
+      ]
+    },
+	{
+      "tag": "question41",
+      "patterns": [
+        "If my non-exempt company gains exemption status, do they file an updated report?",
+        "If I gain exemption status after filing, do I have to file again?",
+        "If I gain exemption status, do I have to file again?",
+		"Does a newly exempt company have to file?",
+		"If a non-exempt company gains exemption status, do they have to file anything?",
+		"Does a newly exempt company have to file anything?",
+		"Does FinCEN need to know if a reporting company becomes an exempt company?",
+		"Does a newly exempt entity have to file?"
+      ],
+      "responses": [
+        "Yes, if a reporting company filed a beneficial ownership information report but then becomes exempt from filing, the company should file an updated report. In an update BOI report for a newly exempt entity will only require that:\n•  The entity identify itself and,\n•  Check a box noting its newly exempt status."
+      ]
+    },
+	{
+      "tag": "question42",
+      "patterns": [
+        "What happens if one of our beneficial owners fails to update their information on their FinCEN ID?",
+        "What happens if a beneficial owner fails to update their information on their FinCEN ID?",
+        "Is our company responsible if our beneficial owner fails to update their information through their FinCEN Id?",
+		"Is our company responsible if a beneficial owner fails to update their information through their FinCEN ID?"
+      ],
+      "responses": [
+        "Individuals that obtain FinCEN identifiers are responsible for updating their own information. They must report any change no later than 30 days after the date on which the change occurred.\nAn individual may be subject to civil and/or criminal penalties for willfully causing a company not to file a required BOI report or to report incomplete or false beneficial ownership information."
+      ]
+    },
+	{
+      "tag": "question43",
+      "patterns": [
+        "Does CTAboi file through API?",
+        "Does CTAboi file through FinCEN’s E-filing method?",
+        "Does CTAboi file through PDF?",
+		"Does CTAboi file our forms through API?"
+      ],
+      "responses": [
+        "TBD, FinCEN has yet to confirm the procedure for each filing method. Our team at CTAboi will continue to actively monitor the options and use the method that is most convient, safe, and efficient for our customers."
+      ]
+    },
+	{
+      "tag": "question44",
+      "patterns": [
+        "Do we use CTAboi as our filing address?",
+        "Can I put down CTAboi as our filing address?",
+        "Can I use CTAboi as our filing address?",
+		"Does a company use CTAboi as our filing address?"
+      ],
+      "responses": [
+        "A company should never use CTAboi as a filing address for your company.\nThe address a reporting company should report is the current street address of its principal place of business. If the reporting company's principal place of business falls outside the United States, they should report the current address from which the company conducts business in the United States."
+      ]
+    },
+	{
+      "tag": "question45",
+      "patterns": [
+        "Should I use my registered agent as my company’s filing address?",
+        "Should I use my registered agent’s address for my company?",
+        "Should I use my registered agent’s address?",
+		"Can I use my registered agent as my company’s filing address?",
+		"Can I use my registered agent’s address?",
+		"Can I use my registered agent’s address for my reporting company address?",
+		"Is my registered agent’s address the address I should put down for my reporting company?",
+		"As a reporting company, should I use my registered agent’s address?"
+      ],
+      "responses": [
+        "A company should never use IncNow or any other registered agent as an address on your Beneficial Ownership Information Report.\nThe address a reporting company should report is the current street address of its principal place of business. If the reporting company's principal place of business falls outside the United States, they should report the current address from which the company conducts business in the United States."
+      ]
+    },
+	{
+      "tag": "question46",
+      "patterns": [
+        "How does our company get notified if our record is deleted after the retention period is over?",
+        "How does a reporting company get notified when our record is deleted after the retention period is over?",
+        "How does a reporting company get notified when our record is deleted after the retention period is over?",
+		"Will former reporting companies know when their records are deleted after the retention period is over?",
+		"How will former reporting companies be notified when their records are deleted after the retention period is over?",
+		"Does a reporting company get notified when a record is deleted?",
+		"Does a reporting company get notified when a BOI report is deleted?",
+		"Does a reporting company get notified when a beneficial ownership information report is deleted?"
+      ],
+      "responses": [
+        "TBD, currently FinCEN has not released any system to send notifications when dissolved companies records are deleted. "
+      ]
+    },
+	{
+      "tag": "question47",
+      "patterns": [
+        "Are there any tools I can use to help me identify my company’s Beneficial Owners?",
+        "Is there any tool to use to help me identify my company’s Beneficial Owners?",
+        "Are there tools to help me identify beneficial owners?",
+		"Are there online tools to help me find my beneficial owners?"
+      ],
+      "responses": [
+        "TBD, FinCEN has confirmed they have interest in creating an online wizard to help guide a company through their reporting responsibilities. However, FinCEN has not released anything to date."
+      ]
+    },
+	{
+      "tag": "question48",
+      "patterns": [
+        "Are there any tools I can use to help me identify my company’s company applicants?",
+        "Are there any tools to help me identify company applicants?",
+        "Are there tools to help me identify company applicants of my company?"
+      ],
+      "responses": [
+        "TBD, FinCEN has confirmed they have interest in creating an online wizard to help guide individuals through their reporting responsibilities. However, FinCEN has not released anything to date."
+      ]
+    },
+	{
+      "tag": "question49",
+      "patterns": [
+        "Will my information become public?",
+        "Will BOI reports become publicly available?",
+        "Are BOI Reports publicly available?",
+		"Is my beneficial ownership information publicly available?",
+		"Is my company applicant information publicly available?"
+      ],
+      "responses": [
+        "No, Beneficial ownership information reported to FinCEN will be stored in a secure, non-public database using rigorous information security methods."
+      ]
+    },
+	{
+      "tag": "question50",
+      "patterns": [
+        "Will a reporting company need to report any other information in addition to information about its beneficial owners?",
+        "Is there anything else to report other than information on beneficial owners?",
+        "Are beneficial owners the only ones to get reported?",
+		"Do entities only report the beneficial owners?",
+		"Do reporting companies only report information on beneficial owners?"
+      ],
+      "responses": [
+        "Yes, all reporting companies will be required to report information about itself as well. The information a reporting company needs to report includes:\n•  Full legal name\n•  Any trade name or “doing business as” (DBA) name \n•  Principal place of business address\n•  State, Tribal, or foreign jurisdiction of formation\n•  Federal Tax ID Number (either EIN or ITIN)\nReporting companies created or registered January 1st, 2024 or later will also be required to submit information on its company applicants as well. Required company applicant information includes:\n•  Full Legal Name \n•  Date of birth \n•  Current residential address\n•  A unique identifying number from a valid ID document (driver’s license, passport, or government issued ID)\n•  An image of the ID document. "
+      ]
+    },
+	{
+      "tag": "question51",
+      "patterns": [
+        "What information will a reporting company have to report about itself?",
+        "What information will a reporting company have to report on itself?",
+      ],
+      "responses": [
+        "A reporting company will be required to submit the following about itself:\n•  Full legal name\n•  Any trade name or “doing business as” (DBA) name \n•  Principal place of business address\n•  State, Tribal, or foreign jurisdiction of formation\n•  Federal Tax ID Number (either EIN or ITIN)\nIn addition, reporting companies will also be required to submit information on all beneficial owners of the company."
+      ]
+    },
+	{
+      "tag": "question52",
+      "patterns": [
+        "How will I report my company’s beneficial ownership information?",
+        "How will I file my company’s beneficial ownership information?",
+        "How will I report my company's boi report?",
+		"How will I file my company boi report?"
+      ],
+      "responses": [
+        "CTAboi will take care of it! Our team will reach out to you with a confirmation that we are able to proceed with filing the information the client disclosed."
+      ]
+    },
+	{
+      "tag": "question53",
+      "patterns": [
+        "Who will be able to access reported beneficial ownership information and for what purposes?",
+        "Can the government access beneficial ownership information?",
+        "Can banks access beneficial ownership information?",
+		"Can the police access beneficial ownership information?",
+		"Can foreign law enforcement access boi reports?",
+		"Who will have access to FinCEN’s boi database?"
+      ],
+      "responses": [
+        "The Corporate Transparency Act gives FinCEN the authority to disclose beneficial ownership information in specific circumstances to certain organizations including:\n•  U.S. Federal agencies\n•  State, local, and Tribal law enforcement agencies\n•  The U.S. Department of the Treasury\n•  Financial Institutions\n•  Federal and state regulatory agencies\n•  Foreign law enforcement agencies\nThe Federal, State, local, and Tribal officials all can request BOI reports for activities related to national security, intelligence, and law enforcement. Financial institutions will also have access in certain circumstances, with the consent of the reporting company.\nAll these groups with the ability to request access are controlled under firm access requirements enforced by the Corporate Transparency Act."
+      ]
+    },
+	{
+      "tag": "question54",
+      "patterns": [
+        "How will FinCEN protect beneficial ownership information reported to it?",
+        "How will FinCEN keep beneficial ownership information reported to law enforcement?",
+        "How will FinCEN protect the BOI database?",
+		"What protections does FinCEN have in place?"
+      ],
+      "responses": [
+        "Under the Corporate Transparency Act, FinCEN is mandated to implement safeguards protecting beneficial ownership information, build a secure IT system to store all records, and establish concrete processes and procedures, ensuring that only authorized users can access these records.\nFinCEN is currently developing policies and procedures that will govern the access to and handling of beneficial ownership information. FinCEN will also continue to work closely with authorized users to ensure that they understand their roles and responsibilities to ensure reported information is used only for authorized purposes, protecting all records security and confidentiality."
+      ]
+    },
+	{
+      "tag": "question55",
+      "patterns": [
+        "Does a company have to tell FinCEN they are exempt?",
+        "Do I tell FinCEN if my company is exempt?"
+      ],
+      "responses": [
+        "No, if you are exempt from reporting you do not have to declare so with FinCEN. However, if your company was previously designated as a reporting company but no longer has to file, they must file a report with FinCEN acknowledging the change in exempt status?"
       ]
     }
   ]
