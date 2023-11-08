@@ -50,7 +50,7 @@
         "What is the Corporate Transparency Act?",
         "What's the Corporate Transparency Act?",
         "What's the Corporate Transparency Act",
-		"Whats the Corporate Transparency Act?",
+		"Whats the Corporate Transparency Act?"
       ],
       "responses": [
         "Adopted into law by Congress in 2020, the Corporate Transparency Act will dramatically change the way corporations, limited liability companies and limited partnerships are formed. The Corporate Transparency Act requires each company formed or registered to do business in the U.S. to disclose its beneficial ownership to FinCEN. The disclosure report must contain specific items of personally identifiable information about  each of the reporting company's beneficial owners."
@@ -145,7 +145,7 @@
 		"Does an intermediary agent become a beneficial owner if who they represent has more than 25% percent ownership of a company?"
       ],
       "responses": [
-        "There are five instances in which an individual who would otherwise be a beneficial owner of a reporting company qualifies for an exception. In those cases, the reporting company does not have to report that individual as a beneficial owner to FinCEN. One exception applies to the individual who merely acts on behalf of an actual beneficial owner as the beneficial owner’s nominee, intermediary, custodian, OR agent. Individuals who perform ordinary advisory or other contractual services (such as tax professionals) likely qualify for this exception. In scenarios where this exception applies the actual beneficial owner must still be reported.",
+        "There are five instances in which an individual who would otherwise be a beneficial owner of a reporting company qualifies for an exception. In those cases, the reporting company does not have to report that individual as a beneficial owner to FinCEN. One exception applies to the individual who merely acts on behalf of an actual beneficial owner as the beneficial owner’s nominee, intermediary, custodian, OR agent. Individuals who perform ordinary advisory or other contractual services (such as tax professionals) likely qualify for this exception. In scenarios where this exception applies the actual beneficial owner must still be reported."
       ]
     },
 	{
@@ -159,7 +159,7 @@
 		"I am set to inherit a reporting company. Am I a beneficial owner of that company?",
 		"I am set to inherit a reporting company. Am I a beneficial owner?",
 		"I am set to inherit a reporting company. Am I considered a beneficial owner?",
-		"I will inherit a company. Am I a beneficial owner?"
+		"I will inherit a company. Am I a beneficial owner?",
 		"I will inherit a company. Am I a beneficial owner of that company?",
 		"I will inherit a company. Am I considered a beneficial owner?",
 		"I will inherit a company. Do I qualify as a beneficial owner?",
@@ -187,7 +187,7 @@
 		"Can a Creditor be a beneficial owner?"
       ],
       "responses": [
-        "There are five instances in which an individual who would otherwise be a beneficial owner of a reporting company qualifies for an exception. In those cases, the reporting company does not have to report that individual as a beneficial owner to FinCEN. This exception applies when the individual is a creditor of the reporting company. For example, an individual qualifies for the creditor exception if the individual is entitled to payment from the reporting company to satisfy a loan or debt, so long as this entitlement is the only ownership interest the individual has in the reporting company.",
+        "There are five instances in which an individual who would otherwise be a beneficial owner of a reporting company qualifies for an exception. In those cases, the reporting company does not have to report that individual as a beneficial owner to FinCEN. This exception applies when the individual is a creditor of the reporting company. For example, an individual qualifies for the creditor exception if the individual is entitled to payment from the reporting company to satisfy a loan or debt, so long as this entitlement is the only ownership interest the individual has in the reporting company."
       ]
     },
 	{
@@ -200,7 +200,7 @@
 		"Are employees exempt from being a beneficial owner?"
       ],
       "responses": [
-        "There are five instances in which an individual who would otherwise be a beneficial owner of a reporting company qualifies for an exception. In those cases, the reporting company does not have to report that individual as a beneficial owner to FinCEN. This exception applies when the individual is an employee of the reporting company, who’s substantial control, or economic benefits from, the reporting company are derived solely from the employment status of the individual as an employee. The individual also must not be  a senior officer of the reporting company.",
+        "There are five instances in which an individual who would otherwise be a beneficial owner of a reporting company qualifies for an exception. In those cases, the reporting company does not have to report that individual as a beneficial owner to FinCEN. This exception applies when the individual is an employee of the reporting company, who’s substantial control, or economic benefits from, the reporting company are derived solely from the employment status of the individual as an employee. The individual also must not be  a senior officer of the reporting company."
       ]
     },
 	{
@@ -213,7 +213,7 @@
 		"What information must a reporting company provide on its BOI Report?"
       ],
       "responses": [
-        "A reporting company needs to provide the following information for each individual included in its Beneficial Ownership Information Report: \n•   Full Legal Name\n •   Date of birth\n •   Current residential address\n•   A unique identifying number from a valid ID document (driver’s license, passport, or government issued ID)\n•   An image of the ID document.",
+        "A reporting company needs to provide the following information for each individual included in its Beneficial Ownership Information Report: \n•   Full Legal Name\n •   Date of birth\n •   Current residential address\n•   A unique identifying number from a valid ID document (driver’s license, passport, or government issued ID)\n•   An image of the ID document."
       ]
     },
 	{
@@ -237,7 +237,7 @@
 		"What documents do I need to report for company applicants?"
       ],
       "responses": [
-        "A reporting company needs to provide the following information for each individual included in its Beneficial Ownership Information Report: \n•   Full Legal Name\n •   Date of birth\n•   Current residential address\n•   A unique identifying number from a valid ID document (driver’s license, passport, or government issued ID)\n•   An image of the ID document.",
+        "A reporting company needs to provide the following information for each individual included in its Beneficial Ownership Information Report: \n•   Full Legal Name\n •   Date of birth\n•   Current residential address\n•   A unique identifying number from a valid ID document (driver’s license, passport, or government issued ID)\n•   An image of the ID document."
       ]
     },
 	{
@@ -253,7 +253,7 @@
 		"When will the Corporate Transparency Act affect businesses?"
       ],
       "responses": [
-        "The Corporate Transparency Act and its reporting requirements go into effect January 1st, 2024.\nExisting businesses formed before January 1, 2024, need to file Beneficial Ownership Information reports to FinCEN by January 1, 2025 in order to comply with the CTA.\nNew businesses formed after January 1, 2024, need to submit Beneficial Ownership Information reports to FinCEN within 30 days of the company’s formation date."",
+        "The Corporate Transparency Act and its reporting requirements go into effect January 1st, 2024.\nExisting businesses formed before January 1, 2024, need to file Beneficial Ownership Information reports to FinCEN by January 1, 2025 in order to comply with the CTA.\nNew businesses formed after January 1, 2024, need to submit Beneficial Ownership Information reports to FinCEN within 30 days of the company’s formation date."
       ]
     },
 	{
@@ -457,7 +457,7 @@
 		
       ],
       "responses": [
-        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "A “FinCEN identifier” is a unique identifying number that FinCEN will issue to an individual or reporting company upon request after the individual or reporting company provides certain information to FinCEN.\n•  An individual or reporting company is not required to obtain a FinCEN identifier. \n•  An individual or reporting company may only receive one FinCEN identifier.\n•  Your company may include FinCEN identifiers in its BOI report instead of required information about beneficial owners or company applicants.\nIndividuals may electronically apply for FinCEN identifiers. In the application, an individual must provide their name, date of birth, address, unique identifying number and issuing jurisdiction from an acceptable identification document, and an image of the identification document – the same four pieces of personal information and image reporting companies submit about beneficial owners and company applicants in BOI reports."
       ]
     },
 	{
@@ -592,7 +592,7 @@
 		"How do I get a FinCEN Id?"
       ],
       "responses": [
-        "Individuals will be able to request a FinCEN identifier on or after January 1, 2024, by completing an electronic web form. Individuals will need to provide their full legal name, date of birth, address, unique identifying number and issuing jurisdiction from an acceptable identification document, and an image of the identification document. After an individual submits this information, the individual will immediately receive a FinCEN identifier unique to that individual.\nReporting companies may request a FinCEN identifier by checking a box on the beneficial ownership information report when they submit the report. After the reporting company submits the report, the reporting company will immediately receive a FinCEN identifier unique to that company. If a reporting company wishes to request a FinCEN identifier after submitting its initial beneficial ownership report, it may submit an updated beneficial ownership information report requesting a FinCEN identifier, even if the company does not otherwise need to update its information.",
+        "Individuals will be able to request a FinCEN identifier on or after January 1, 2024, by completing an electronic web form. Individuals will need to provide their full legal name, date of birth, address, unique identifying number and issuing jurisdiction from an acceptable identification document, and an image of the identification document. After an individual submits this information, the individual will immediately receive a FinCEN identifier unique to that individual.\nReporting companies may request a FinCEN identifier by checking a box on the beneficial ownership information report when they submit the report. After the reporting company submits the report, the reporting company will immediately receive a FinCEN identifier unique to that company. If a reporting company wishes to request a FinCEN identifier after submitting its initial beneficial ownership report, it may submit an updated beneficial ownership information report requesting a FinCEN identifier, even if the company does not otherwise need to update its information."
       ]
     },
 	{
@@ -601,7 +601,7 @@
         "Can I get a FinCEN ID from CTAboi?",
         "Can I get a FinCEN ID from CTAboi?",
         "Can I receive a FinCEN ID from CTAboi?",
-		"Does CTAboi give out FinCEN IDs?",
+		"Does CTAboi give out FinCEN IDs?"
 		
       ],
       "responses": [
@@ -674,7 +674,9 @@
 		"Do i take pictures of both sides of my driving license?",
 		"Will I have to take pictures of both sides of my license?",
 		"Will I have to take pictures of both sides of my driving license?",
-		"Will I have to take pictures of both sides of my drivers license?"
+		"Will I have to take pictures of both sides of my drivers license?",
+		"Do I need to take a picture of my ID"
+		
       ],
       "responses": [
         "Yes. If you are submitting a driver's license as your chosen ID, you will need to scan and submit a picture of both sides of the card."
@@ -937,7 +939,7 @@
       "tag": "question51",
       "patterns": [
         "What information will a reporting company have to report about itself?",
-        "What information will a reporting company have to report on itself?",
+        "What information will a reporting company have to report on itself?"
       ],
       "responses": [
         "A reporting company will be required to submit the following about itself:\n•  Full legal name\n•  Any trade name or “doing business as” (DBA) name \n•  Principal place of business address\n•  State, Tribal, or foreign jurisdiction of formation\n•  Federal Tax ID Number (either EIN or ITIN)\nIn addition, reporting companies will also be required to submit information on all beneficial owners of the company."
