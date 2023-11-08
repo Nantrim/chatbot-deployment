@@ -992,7 +992,7 @@
       "responses": [
         "No, if you are exempt from reporting you do not have to declare so with FinCEN. However, if your company was previously designated as a reporting company but no longer has to file, they must file a report with FinCEN acknowledging the change in exempt status?"
       ]
-    }
+    },
 	{
       "tag": "question56",
       "patterns": [
@@ -1329,7 +1329,7 @@
 		"What to do if you find a mistake in a FinCEN Report?",
 		"How do you deal with errors in a FinCEN Report?",
 		"What's the way to fix a mistake in a FinCEN Report?",
-		"How to handle a mistake in a FinCEN Report?"
+		"How to handle a mistake in a FinCEN Report?",
 		"What to do if you spot an error in a FinCEN Report?",
 		"How to fix a problem in a FinCEN Report?",
 		"How to handle an error in a FinCEN Report?",
@@ -1514,6 +1514,6 @@
       "responses": [
 	  "No, CTAboi operates as its own company. Its services are provided null of any interaction with IncNow.\nIf you are a current IncNow customer, we welcome you to use CTAboi to file your Beneficial Ownership Information Reports today!"
       ]
-    },
+    }
   ]
 }
