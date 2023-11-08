@@ -993,5 +993,527 @@
         "No, if you are exempt from reporting you do not have to declare so with FinCEN. However, if your company was previously designated as a reporting company but no longer has to file, they must file a report with FinCEN acknowledging the change in exempt status?"
       ]
     }
+	{
+      "tag": "question56",
+      "patterns": [
+        "How many beneficial owners does my company have?",
+        "How many beneficial owners do I have?",
+        "Do I have one beneficial owner?",
+        "Do I have multiple beneficial owners?"
+      ],
+      "responses": [
+        "Every reporting company will be able to identify and report at least one beneficial owner to FinCEN. General steps a reporting company can take to identify beneficial owners include:\n1. Identify individuals who exercise \"substantial control\" over the company.\n2. Identify all the types of ownership interest in the company and the individuals who hold this interest.\n3. Calculate the percentage ownership held directly or indirectly by individuals to identify ownership levels of at least 25% percent of the total ownership interest of the company.\nAn in-depth guide can be found in section 2.3 of FinCEN’s BOI Small Entity Compliance Guide here."
+      ]
+    },
+	{
+      "tag": "question57",
+      "patterns": [
+        "Does my foreign entity need to obtain an EIN number?",
+        "Does a foreign entity need to obtain an EIN number?",
+        "Does my foreign entity need to obtain a EIN number?",
+        "Does my foreign entity need to get a EIN number?",
+		"Do my foreign entities need to get an EIN number?",
+		"Do foreign entities need to get an EIN number?"
+      ],
+      "responses": [
+        "Every reporting company will be able to identify and report at least one beneficial owner to FinCEN. General steps a reporting company can take to identify beneficial owners include:\n1. Identify individuals who exercise \"substantial control\" over the company.\n2. Identify all the types of ownership interest in the company and the individuals who hold this interest.\n3. Calculate the percentage ownership held directly or indirectly by individuals to identify ownership levels of at least 25% percent of the total ownership interest of the company.\nAn in-depth guide can be found in section 2.3 of FinCEN’s BOI Small Entity Compliance Guide here."
+      ]
+    },
+	{
+      "tag": "question58",
+      "patterns": [
+        "Does my foreign entity need to obtain an EIN number?",
+        "Does a foreign entity need to obtain an EIN number?",
+        "Does my foreign entity need to obtain a EIN number?",
+        "Does my foreign entity need to get a EIN number?",
+		"Do my foreign entities need to get an EIN number?",
+		"Do foreign entities need to get an EIN number?"
+      ],
+      "responses": [
+        "Generally a foreign reporting company won't need to apply for an EIN before submitting its Beneficial Ownership Information Report. According to FinCEN's Small Entity Compliance Guide, a foreign reporting company has the ability to report a tax identification number issued by a foreign jurisdiction and the name of such jursidiction. In the case that the foreign entity does not have any available tax identification number, the foreign reporting company should file for an EIN number."
+      ]
+    },
+	{
+      "tag": "question59",
+      "patterns": [
+        "Does my company need an EIN number?",
+        "Do I need an EIN number?",
+        "Do I need an EIN?",
+        "Does my entity need an EIN?",
+		"Does my LLC need an EIN?",
+		"Does a single member LLC need an EIN to file?",
+		"Does my entity need an EIN to report?",
+		"Does my entity need an EIN to file?",
+		"Does a single member LLC need an EIN to submit a beneficial ownership report?",
+		"Does an entity need to have a EIN in order to file a BOI report?",
+		"Does an LLC need to have an EIN to report Beneficial Ownership Information?"
+      ],
+      "responses": [
+	  "Typically, a domestic reporting company will have and use an EIN as its Taxpayer Identification Number when reporting its beneficial ownership information with FinCEN.\nIf a reporting company is a sole proprietorship or single-member LLC operating without an EIN, the reporting company may be able to file the business owners ITIN as a supplement.\nAs for foreign reporting companies, according to FinCEN's Small Entity Compliance Guide, a foreign reporting company has the ability to report a tax identification number issued by a foreign jurisdiction and the name of such jursidiction. In the case that the foreign entity does not have any available tax identification number, the foreign reporting company should file for an EIN number."
+      ]
+    },
+	{
+      "tag": "question60",
+      "patterns": [
+        "Is my Company’s Accountant or Lawyer a Beneficial Owner?",
+        "Is my company’s accountant or lawyer a beneficial owner?",
+        "Is a company’s accountant a beneficial owner?",
+        "Is a company’s lawyer a beneficial owner?",
+		"Is an entity's accountant a beneficial owner?",
+		"Is an entity's lawyer a beneficial owner?"
+      ],
+      "responses": [
+	  "Typically, Accountants and lawyers are both considered to be ‘ordinary, arms-length advisors’. These third parties are generally not considered to have “substantial control” and therefore not a control party.\nHowever, the holder of general counsel in a reporting company is a “senior officer”, and will be considered a beneficial owner."
+      ]
+    },
+	{
+      "tag": "question61",
+      "patterns": [
+        "Is my Company’s Accountant or Lawyer a Company Applicant?",
+        "Is my company’s account or lawyer a company applicant?",
+        "Is a company’s accountant a company applicant?",
+        "Is a company’s lawyer a company applicant?",
+		"Is an entity’s account a company applicant?",
+		"Is an entity's lawyer a company applicant?"
+      ],
+      "responses": [
+		"A reporting company's accountant or lawyer may act as a company applicant based on their role in the filing process that establishes or registers a reporting company.\nA lawyer or accountant can qualify as company applicants if they:\n•  Directly file the document that creates or registers the company.\n•  In cases with multiple individuals involved, are primarily in charge of guiding or overseeing the filing process."
+      ]
+    },
+	{
+      "tag": "question62",
+      "patterns": [
+        "What are Acceptable Forms of Identification for Beneficial Ownership Information Reports?",
+        "What are acceptable forms of identification for beneficial ownership information reports?",
+        "What are acceptable forms of identifications that I can use?",
+        "What are acceptable forms of identifications?",
+		"What ids can I use?",
+		"What Identification can my beneficial owners use?",
+		"What identification can i use?",
+		"What identification methods can I use in BOI reports?",
+		"What identification methods can I use?"
+      ],
+      "responses": [
+		"Acceptable forms of identification are limited to:\n•  A non-expired U.S. driver’s license (including any driver’s licenses issued by a commonwealth, territory, or possession of the United States);\n•  A non-expired identification document issued by a U.S. state or local government, or Indian Tribe;\n•  A non-expired passport issued by the U.S. government; or\n•  A non-expired passport issued by a foreign government (only when an individual does not have one of the other three forms of identification listed above)"
+      ]
+    },
+	{
+      "tag": "question63",
+      "patterns": [
+        "What is an Ownership Interest for Beneficial Ownership Information Reporting?",
+        "What is an Ownership Interest for Beneficial Ownership Information Reporting?",
+        "What is Ownership Interest for Beneficial Ownership Information Reporting?",
+        "What is Ownership Interest for BOI Reports?",
+		"What is Ownership Interest?",
+		"What is an example of ownership interest?",
+		"What are examples of ownership interest",
+		"What are examples of interest in a company?"
+      ],
+      "responses": [
+		"Ownership interest is a “catch-all” term that includes any medium or tool used to establish ownership rights in the reporting company. Examples of ownership interest include: \n•  Shares of Equity\n•  Stock\n•  Voting Rights \n•  Capital Interest \n•  Profit Interest\n•  Convertible Instruments\n•  Options"
+      ]
+    },
+	{
+      "tag": "question64",
+      "patterns": [
+        "What is the purpose of the Corporate Transparency Act?",
+        "What is the purpose of the Corporate Transparency Act?",
+        "Why is there a corporate transparency act?",
+        "What is the purpose of the corporate transparencies act?",
+		"What is the point of the corporate transparency act?",
+		"What is the point of the corporate transparencies act?",
+		"Why is there cta?",
+		"What is the purpose of CTA?",
+		"What is the point of cta?",
+		"Why does FinCEN need my information?",
+		"Why does fincen want my information?",
+		"Why does fincen collect reporting companies information?",
+		"Why does fincen collect beneficial ownership information from companies?",
+		"Why does fincen collect beneficial ownership information from small businesses?",
+		"Why does fincen want information from small businesses?",
+		"Why does fincen want info from small businesses?",
+		"Why does the government want beneficial ownership information?",
+		"Why does the government want info from small businesses?",
+		"Why does the government want information from companies?",
+		"Why does the government collect beneficial ownership information?",
+		"Why does the government want my information?"
+      ],
+      "responses": [
+		"The Corporate Transparency Act addresses illicit financial activities by targeting the misuse of U.S. business entities. Its goals include curtailing the creation of shell companies for laundering, terrorist financing, and fraud.\nFinCEN is responsible for gathering beneficial ownership information for both domestic businesses and foreign companies registered to do business in the U.S."
+      ]
+    },
+	{
+      "tag": "question65",
+      "patterns": [
+        "What happens to beneficial ownership information reported to FinCEN?",
+        "What happens to beneficial ownership information reported to FinCEN?",
+        "Where does my boi report go?",
+        "Where does my beneficial ownership information go?",
+		"What happens to my boi report reported to FinCEN?",
+		"What does fincen do with my information?",
+		"What does fincen do with a reporting company’s information?",
+		"How does fincen collect information?"
+      ],
+      "responses": [
+		"FinCEN stores Beneficial Ownership Information in a secure, government database. FinCEN's Beneficial Ownership database is not available to the public and can only be accessed by law enforcement agencies or banks with special permission."
+      ]
+    },
+	{
+      "tag": "question66",
+      "patterns": [
+        "What is the deadline for FinCEN Reports",
+        "What is the deadline for FinCEN Reports?",
+        "When do I have to do this by?",
+        "When does a reporting company have to do this by?",
+		"When does my company have to do this by?",
+		"When does this need to be done?",
+		"What deadlines are in place for boi reporting?",
+		"When does a boi report need to be filed?",
+		"When does a beneficial ownership report need to be submitted?",
+		"When does a boi report need to be filed?",
+		"When do I need to report?",
+		"When do I need to file?",
+		"When do I have to do this?",
+		"When does a reporting company have to do this?",
+		"When does my company have to do this?",
+		"My company was formed today. When do I have to submit a report?",
+		"When do I report?",
+		"When do I file?",
+		"Deadlines?",
+		"What deadlines?",
+		"What deadlines are there?",
+		"What are the deadlines?",
+		"What are the deadlines for boi reporting?",
+		"Are there deadlines?",
+		"Is there a cutoff date?",
+		"Is there a cutoff date for boi reporting?",
+		"When do new companies have to report by?",
+		"Are there filing deadlines?",
+		"Are there any reporting deadlines?"
+      ],
+      "responses": [
+		"Deadlines for FinCEN BOI Reports depend on when the company was formed.\nNew companies formed in 2024 have 30 calendar days to submit their BOI report to FinCEN, starting from the actual or public notice of creation or registration.\nExisting companies formed before January 1, 2024, need to submit their BOI report to FinCEN before January 1, 2025.\nReporting companies have 30 days to submit a BOI Updated Report if any of the Beneficial Ownership Information provided to FinCEN changes."
+      ]
+    },
+	{
+      "tag": "question67",
+      "patterns": [
+        "Who must be in a BOI Report for companies formed before January 1st, 2024?",
+        "Who must be in a BOI Report for companies formed before January 1st, 2023",
+        "Before January 1st, 2024",
+        "Before Jan 1",
+		"Before January 1, 2024",
+		"Before Jan 1, 2024",
+		"Who will be in a report for a company formed before Jan 1, 2024?",
+		"Who is in my report if I formed before January 1st, 2024?",
+		"Who is in my report if I incorporated before January 1st, 2024?"
+      ],
+      "responses": [
+	  "Existing companies formed before January 1, 2024, need to report the following to FinCEN:\n•  Beneficial Owners\n•  Control Parties\n•  Reporting Company Information\nFor each beneficial owner and control party, an existing company needs to provide their:\n•  Full Legal Name\n•  Date of Birth\n•  Current Residential Address\n•  A unique identifying number from a valid ID document\n•  An image of the ID document\nThe following information about the reporting company itself also needs to be provided:\n•  Reporting Company Full Legal Name (with corporate ending)\n•  Jurisdiction (state of formation, incorporation, or registration)\n•  Principal Business Address( NOT the registered agent address)\n•  Federal Tax ID Number(EIN or ITIN)\n•  All Trade Names or DBAs"
+      ]
+    },
+	{
+      "tag": "question68",
+      "patterns": [
+        "What happens to beneficial ownership information reported to FinCEN?",
+        "What happens to beneficial ownership information reported to FinCEN?",
+        "Where does my boi report go?",
+        "Where does my beneficial ownership information go?",
+		"What happens to my boi report reported to FinCEN?",
+		"What does fincen do with my information?",
+		"What does fincen do with a reporting company’s information?",
+		"How does fincen collect information?"
+      ],
+      "responses": [
+	  "FinCEN stores Beneficial Ownership Information in a secure, government database. FinCEN's Beneficial Ownership database is not available to the public and can only be accessed by law enforcement agencies or banks with special permission."
+      ]
+    },
+	{
+      "tag": "question69",
+      "patterns": [
+        "Who needs to be in my beneficial ownership report?",
+        "Who needs to be in my beneficial ownership information report?",
+        "Who needs to be in my beneficial ownership report?",
+        "Who is in my CTA report?",
+		"Who do I need to declare for CTA?",
+		"Who do I need to report?",
+		"Who do I report?",
+		"Who does my company report?",
+		"Who does my company need to report?",
+		"Who is included in my report?",
+		"Who is included in our report?",
+		"Who is included in my company's report?",
+		"Who needs to be in my company’s beneficial ownership information report?",
+		"Who needs to be in a reporting company’s beneficial ownership report?",
+		"Who is included in my boi report?"
+      ],
+      "responses": [
+      ]
+    },
+	{
+      "tag": "question70",
+      "patterns": [
+        "What is a valid ID Document for a FinCEN Report?",
+        "What ID do I show for a FinCEN Report?",
+        "What kind of ID is needed for a FinCEN Report?",
+        "What's the right ID for a FinCEN Report form?",
+		"What ID can I use for a FinCEN Report?",
+		"What type of ID is accepted for a FinCEN Report?",
+		"Which ID is okay for a FinCEN Report?",
+		"What's the right ID for reporting to FinCEN?",
+		"What's the ID for a FinCEN Report?",
+		"What's the proper ID for a FinCEN Report?",
+		"What ID is required for a FinCEN Report?",
+		"What kind of ID is valid for a FinCEN Report?",
+		"What ID works for a FinCEN Report?",
+		"What ID do I need for a FinCEN Report?",
+		"What's the accepted ID for a FinCEN Report?",
+		"What type of ID do I need for a FinCEN Report?",
+		"What ID can I use for a FinCEN Report form?",
+		"What's the right ID for a FinCEN Report submission?",
+		"What ID is okay for reporting to FinCEN?",
+		"What's the right ID for a FinCEN Report filing?",
+		"What ID should I use for a FinCEN Report?",
+		"What ID for report?",
+		"Which ID is right?",
+		"What kind of ID?",
+		"Which ID for form?",
+		"What's the correct ID?",
+		"What's the ID needed?",
+		"What to use for ID?",
+		"Which ID is accepted?",
+		"What's the proper ID?",
+		"What's the ID required?",
+		"What type of ID?",
+		"Which ID is okay?",
+		"What's the accepted ID?",
+		"What ID to use?",
+		"Which ID for filing?",
+		"Which ID can I use?",
+		"What ID can I use?"
+      ],
+      "responses": [
+	  "The following are considered valid identification documents for a FinCEN BOI Report: \n•  U.S. passport,\n•  Driver’s license,\n•  State or government issued ID document.\n•  A foreign passport (only when an individual does not have one of the other three forms of identification)"
+      ]
+    },
+	{
+      "tag": "question71",
+      "patterns": [
+        "What if there is an error in a FinCEN Report?",
+        "What should be done if there's a mistake in a FinCEN Report?",
+        "How to address an error in a FinCEN Report?",
+        "In case of an error in a FinCEN Report, what steps should be taken?",
+		"What is the procedure for rectifying a mistake in a FinCEN Report?",
+		"How do you correct an error in a FinCEN Report?",
+		"If a mistake is found in a FinCEN Report, what is the appropriate action?",
+		"What actions should be taken if there is an error in a FinCEN Report?",
+		"What is the protocol for handling errors in a FinCEN Report?",
+		"What should one do if there is an inaccuracy in a FinCEN Report?",
+		"How can errors in a FinCEN Report be addressed?",
+		"What steps can be taken to rectify an error in a FinCEN Report?",
+		"What is the process for dealing with mistakes in a FinCEN Report?",
+		"If a FinCEN Report contains an error, what is the recommended course of action?",
+		"How should an error in a FinCEN Report be handled?",
+		"What are the steps to correct an error in a FinCEN Report?",
+		"What actions are necessary if there is an error in a FinCEN Report?",
+		"How do you go about fixing a mistake in a FinCEN Report?",
+		"What is the proper procedure for addressing errors in a FinCEN Report?",
+		"If a FinCEN Report is incorrect, what steps should be taken?",
+		"What is the recommended approach for dealing with errors in a FinCEN Report?",
+		"What if something's wrong in a FinCEN Report?",
+		"How to fix a mistake in a FinCEN Report?",
+		"If there's a mistake in a FinCEN Report, what do you do?",
+		"What to do if there's a problem in a FinCEN Report?",
+		"How do you correct an error in a FinCEN Report?",
+		"If there's a mistake in a FinCEN Report, what should you do?",
+		"What to do if you find a mistake in a FinCEN Report?",
+		"How do you deal with errors in a FinCEN Report?",
+		"What's the way to fix a mistake in a FinCEN Report?",
+		"How to handle a mistake in a FinCEN Report?"
+		"What to do if you spot an error in a FinCEN Report?",
+		"How to fix a problem in a FinCEN Report?",
+		"How to handle an error in a FinCEN Report?",
+		"What's the way to correct a mistake in a FinCEN Report?",
+		"What actions to take for a mistake in a FinCEN Report?",
+		"How do you deal with a mistake in a FinCEN Report?",
+		"What's the right way to fix a problem in a FinCEN Report?",
+		"How to handle issues in a FinCEN Report?",
+		"What to do if there's a mix-up in a FinCEN Report?",
+		"How to fix errors in a FinCEN Report?",
+		"What if something's wrong in a report?",
+		"How to fix a mistake in a report?",
+		"If there's a mistake, what do you do?",
+		"What to do if there's a problem in a report?",
+		"How to correct a mistake?",
+		"If there's a mistake, what should you do?",
+		"What to do if you find a mistake?",
+		"How to deal with mistakes?",
+		"What's the way to fix a mistake?",
+		"How to handle a mistake?",
+		"What to do if you see a mistake?",
+		"How to fix a problem?",
+		"How to handle an error?",
+		"What's the way to correct a mistake?",
+		"What actions to take for a mistake?",
+		"How to deal with a mistake?",
+		"What's the right way to fix a problem?",
+		"How to handle issues?",
+		"What to do if there's a mix-up?",
+		"How to fix errors?"
+		
+      ],
+      "responses": [
+	  "Information provided in a Beneficial Ownership Information Report must be complete and accurate. If any information is incorrect, a BOI Corrected Report must be filed with FinCEN within 30 days of discovery."
+      ]
+    },
+	{
+      "tag": "question72",
+      "patterns": [
+        "What changes in beneficial ownership information must be reported to FinCEN?",
+        "What updates to beneficial ownership data need to be reported to FinCEN?",
+        "What alterations to beneficial ownership details should be communicated to FinCEN?",
+        "What modifications in beneficial ownership information are required to be reported to FinCEN?",
+		"Which alterations in beneficial ownership information must be conveyed to FinCEN?",
+		"When is it necessary to report changes in beneficial ownership information to FinCEN?",
+		"What updates to beneficial ownership data should be shared with FinCEN?",
+		"What adjustments in beneficial ownership information must be disclosed to FinCEN?",
+		"Which changes in beneficial ownership information are mandated to be reported to FinCEN?",
+		"What amendments in beneficial ownership information are required to be notified to FinCEN?",
+		"When should changes in beneficial ownership information be reported to FinCEN?",
+		"What are the requirements for reporting changes in beneficial ownership information to FinCEN?",
+		"What alterations in beneficial ownership information must be made known to FinCEN?",
+		"Which revisions in beneficial ownership information are obligatory to be reported to FinCEN?",
+		"What updates to beneficial ownership data need to be conveyed to FinCEN?",
+		"What adjustments in beneficial ownership information should be informed to FinCEN?",
+		"Which changes in beneficial ownership information must be communicated to FinCEN?",
+		"When do you need to report changes in beneficial ownership information to FinCEN?",
+		"What modifications in beneficial ownership information are mandatory to be reported to FinCEN?",
+		"What revisions in beneficial ownership information are required to be shared with FinCEN?",
+		"When is it compulsory to report changes in beneficial ownership information to FinCEN?",
+		"What do I need to tell FinCEN if ownership info changes?",
+		"How do I update FinCEN about ownership changes?",
+		"If ownership details change, what should I tell FinCEN?",
+		"What changes in ownership info do I report to FinCEN?",
+		"When do I let FinCEN know if ownership info changes?",
+		"How do I inform FinCEN about ownership updates?",
+		"What do I need to share with FinCEN if ownership changes?",
+		"If ownership info changes, what do I tell FinCEN?",
+		"What info about ownership changes do I send to FinCEN?",
+		"When should I report ownership changes to FinCEN?",
+		"How do I comply with FinCEN's ownership change reporting?",
+		"What do I inform FinCEN if ownership info changes?",
+		"What changes in ownership info should I tell FinCEN?",
+		"How do I update FinCEN about changes in ownership?",
+		"Which ownership updates do I share with FinCEN?",
+		"When do I report ownership changes to FinCEN?",
+		"What changes in ownership info are required by FinCEN?",
+		"What updates about ownership changes do I communicate to FinCEN?",
+		"When do I need to tell FinCEN about ownership updates?",
+		"What do I do if ownership info changes for FinCEN?",
+		"How do I tell FinCEN if things change?",
+		"What if I need to update FinCEN?",
+		"What if things change for me at FinCEN?",
+		"How do I report changes to FinCEN?",
+		"When do I let FinCEN know if things change?",
+		"How do I inform FinCEN about updates?",
+		"What do I need to share with FinCEN if things change?",
+		"What if things change for me with FinCEN?",
+		"What if things change in my info for FinCEN?",
+		"When should I report changes to FinCEN?",
+		"How do I follow FinCEN's update rules?",
+		"What do I tell FinCEN if things change?",
+		"What if things change for me here at FinCEN?",
+		"How do I update FinCEN about changes?",
+		"What changes do I tell FinCEN about?",
+		"When do I report changes to FinCEN?",
+		"What changes does FinCEN need to know?",
+		"What updates do I give to FinCEN?",
+		"When should I let FinCEN know about changes?",
+		"What if my info changes for FinCEN?"
+      ],
+      "responses": [
+	  "All of the information provided to FinCEN in a Beneficial Ownership Information Report must be accurate and up to date at all times. Here are some examples of changes in BOI that would require a reporting company to file a BOI Update Report:\nA beneficial owner changes their residential address,\nA beneficial owner obtains a new driver's license,\nA beneficial owner's passport expires and they obtain a new passport number,\nA reporting company appoints a new manager or senior officer,\nA beneficial owner sells or transfers their ownership interest to someone else,\nAnd more."
+      ]
+    },
+	{
+      "tag": "question73",
+      "patterns": [
+        "What is a control party?",
+        "What does the term \"control party\" mean?",
+        "Can you define what a control party is?",
+        "How would you describe a control party?",
+		"What constitutes a control party?",
+		"Could you explain the concept of a control party?",
+		"What is meant by the term \"control party\"?",
+		"How do you define a control party?",
+		"What is the definition of a control party?",
+		"What do we mean by a control party?",
+		"Can you give me the definition of a control party?",
+		"How is a control party defined?",
+		"What exactly is a control party?",
+		"How would you characterize a control party?",
+		"What is the interpretation of a control party?",
+		"Can you clarify the meaning of a control party?",
+		"How do you explain the term \"control party\"?",
+		"What does it mean to be a control party?",
+		"How do you describe a control party?",
+		"What do we understand by a control party?",
+		"Can you provide a definition for a control party?",
+		"What does \"control party\" mean?",
+		"What is a control party?",
+		"What is a control person?",
+		"What is meant by \"control party\"?",
+		"What's a control party?",
+		"What's the definition of control party?",
+		"What is a control party in simple terms?",
+		"What's a control person?",
+		"What is a control party in plain words?",
+		"Can you explain control party?",
+		"What is control party about?",
+		"What does control party refer to?",
+		"What's the meaning of control party?",
+		"Explain control party to me.",
+		"What's the deal with control party?",
+		"Tell me about control party.",
+		"Can you break down control party?",
+		"What's control party all about?",
+		"What's the gist of control party?",
+		"Can you simplify control party for me?"
+      ],
+      "responses": [
+	  "At CTAboi, we find it helpful to split beneficial owners into two groups: Beneficial Owners and Control Parties.\nA control party is CTAboi's way of identifying individuals who have \"substantial control\" over a reporting company's business operations and strategy. Generally, if the individual falls into any of the categories below the individual could be exercising substantial control:\n•  The individual is a senior officer (the company’s president, chief financial officer, general counsel, chief executive officer, chief operating officer, or any other officer who performs a similar function).\n•  The individual has the authority to appoint or remove certain officers or a majority of directors (or similar body) of the reporting company.\n•  The individual is an important decision-maker for the reporting company, including decisions regarding the reporting company's business, finances, or structure.\n•  The individual has any other form of substantial control over the reporting company. Control exercised in new and unique ways can still be substantial."
+      ]
+    },
+	{
+      "tag": "question74",
+      "patterns": [
+        "Is this included in my RA service?",
+        "Is this included in my incnow RA service?",
+        "Is this included in my ra service?",
+        "Does my RA service cover this?",
+		"Is this part of my RA service?",
+		"Does my RA service include this?",
+		"Will my RA service take care of this?",
+		"Is this within the scope of my RA service?",
+		"Is this considered under my RA service?",
+		"Does my RA service entail this?",
+		"Is this part of what my RA service offers?",
+		"Does my RA service incorporate this?",
+		"Is this covered by my RA service?",
+		"Is this a service provided by my RA?",
+		"Is this encompassed by my RA service?",
+		"Is this factored into my RA service?",
+		"Does my RA service involve this?",
+		"Is this accounted for in my RA service?",
+		"Is this part of the services from my RA?",
+		"Is this part of the RA service I have?",
+		"Does my RA service encompass this?",
+		"Is this provided by my RA service?",
+		"Is this within the services offered by my RA?"
+      ],
+      "responses": [
+	  "No, CTAboi operates as its own company. Its services are provided null of any interaction with IncNow.\nIf you are a current IncNow customer, we welcome you to use CTAboi to file your Beneficial Ownership Information Reports today!"
+      ]
+    },
   ]
 }
